@@ -1,0 +1,2 @@
+# kang-mining
+Just try
